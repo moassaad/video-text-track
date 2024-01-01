@@ -1,5 +1,5 @@
 # Video Text Track ".vtt"
-This it's project create translate video with create file type .vtt "video text track" 
+The project create translate video with create file type .vtt "video text track" 
 
 ## Requirements
 You need to run a local server
