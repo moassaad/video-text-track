@@ -1,11 +1,14 @@
+# Video Text Track ".vtt"
+This it's project create translate video with create file type .vtt "video text track" 
 
+## Requirements
+You need to run a local server
 
-## Ref
+## References
 
-#### web Video Text Track (VTT) : https://headendinfo.com/webvtt/
+* Web Video Text Track [WEBVTT](https://headendinfo.com/webvtt/)
 
-#### Text & Video: 
-Text: https://www.karaoketexty.cz/texty-pisni/engelbert-humperdinck/a-man-without-love-445795
+* Text [Translate](https://www.karaoketexty.cz/texty-pisni/engelbert-humperdinck/a-man-without-love-445795)
 
-Video: https://www.youtube.com/watch?v=UDDYfO5dohA
+* Video [Tisting](https://www.youtube.com/watch?v=UDDYfO5dohA)
 
